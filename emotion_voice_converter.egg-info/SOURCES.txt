@@ -1,0 +1,17 @@
+README.md
+setup.py
+emotion_voice_converter/__init__.py
+emotion_voice_converter.egg-info/PKG-INFO
+emotion_voice_converter.egg-info/SOURCES.txt
+emotion_voice_converter.egg-info/dependency_links.txt
+emotion_voice_converter.egg-info/requires.txt
+emotion_voice_converter.egg-info/top_level.txt
+emotion_voice_converter/api/__init__.py
+emotion_voice_converter/configs/__init__.py
+emotion_voice_converter/configs/config.py
+emotion_voice_converter/evaluation/__init__.py
+emotion_voice_converter/models/__init__.py
+emotion_voice_converter/preprocessing/__init__.py
+emotion_voice_converter/training/__init__.py
+emotion_voice_converter/utils/__init__.py
+emotion_voice_converter/vocoder/__init__.py
